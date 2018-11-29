@@ -1,0 +1,257 @@
+--------[ 鲁大师 ]--------------------------------------------------------------------------------
+
+  软件:             鲁大师 5.15.18.1010
+  时间:             2018-11-24 23:59:22
+  网站:             http://www.ludashi.com
+
+--------[ 概览 ]----------------------------------------------------------------------------------
+
+  电脑型号            华硕 X402CA 笔记本电脑
+  操作系统            Windows 7 旗舰版 32位 SP1 ( DirectX 11 )
+
+  处理器              英特尔 第三代酷睿 i3-3217U @ 1.80GHz 双核 超低电压处理器
+  主板                华硕 X402CA ( 英特尔 Ivy Bridge - HM76 Express 芯片组 )
+  显卡                英特尔 HD Graphics 4000 ( 64 MB / 华硕 )
+  内存                3484 MB ( 3COM DDR3 1600MHz )
+  主硬盘              日立 HTS543232A7A384 ( 320 GB / 5400 转/分 )
+  显示器              奇美 CMN1472 ( 14 英寸  )
+  声卡                瑞昱 ALC269 @ 英特尔 Panther Point High Definition Audio Controller
+  网卡                Atheros AR9485 Wireless Network Adapter / Azurewave
+
+--------[ 主板 ]----------------------------------------------------------------------------------
+
+  主板型号            华硕 X402CA
+  芯片组              英特尔 Ivy Bridge - HM76 Express 芯片组
+  序列号              BSN12345678901234567
+  主板版本            1.0
+  BIOS版本            American Megatrends Inc. X402CA.208  /  BIOS程序发布日期: 2013年02月27日
+  BIOS的大小          6144 KB
+  BIOS的序列号        63-0100-000001-00101111-020612-Chipset
+
+  板载设备            VGA / 视频设备 (启用)
+  板载设备            GLAN / 网卡 (启用)
+  板载设备            WLAN / 网卡 (启用)
+
+--------[ 处理器 ]--------------------------------------------------------------------------------
+
+  处理器              英特尔 第三代酷睿 i3-3217U @ 1.80GHz 双核 超低电压处理器
+  步进                E1
+  速度                1.80 GHz (100 MHz x 18.0)
+  处理器数量          核心数: 2 / 线程数: 4
+  核心代号            Ivy Bridge
+  生产工艺            22 纳米
+  插槽/插座           Socket BGA1023
+  一级数据缓存        2 x 32 KB, 8-Way, 64 byte lines
+  一级代码缓存        2 x 32 KB, 8-Way, 64 byte lines
+  二级缓存            2 x 256 KB, 8-Way, 64 byte lines
+  三级缓存            3 MB, 12-Way, 64 byte lines
+  特征                MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, HTT, EM64T, EIST, Turbo Boost
+
+--------[ 硬盘 ]----------------------------------------------------------------------------------
+
+  产品                日立  HTS543232A7A384
+  大小                320 GB
+  转速                5400 转/分
+  缓存                8 MB
+  硬盘已使用          共 2690 次，累计 3804 小时
+  固件                ES2OA60W
+  接口                SATA II
+  数据传输率          300.00 MB/秒
+  特征                S.M.A.R.T,  APM,  48-bit LBA,  NCQ
+
+--------[ 内存 ]----------------------------------------------------------------------------------
+
+  ChannelA-DIMM0      3COM DDR3 1600MHz 4GB
+  序列号              00000000
+  模块位宽:           64 bits
+
+--------[ 显卡 ]----------------------------------------------------------------------------------
+
+  主显卡              英特尔 HD Graphics 4000
+  显存                64 MB
+  制造商              华硕
+  制造商              Intel
+  BIOS版本            Intel Video BIOS
+  BIOS日期            01/16/20 (非显卡制造日期)
+  驱动版本            10.18.10.3574
+  驱动日期            4-24-2014
+
+--------[ 显示器 ]--------------------------------------------------------------------------------
+
+  产品                奇美 CMN1472
+  厂商                奇美
+  固件程序日期        2011 年 09月 (非显示器制造日期)
+  屏幕尺寸            14 英寸 (31 厘米 x 17 厘米)
+  显示比例            宽屏 16 : 9
+  分辨率              1366 x 768 32 位真彩色
+  Gamma               2.20
+  最大分辨率          1366 x 768
+
+--------[ 其他设备 ]------------------------------------------------------------------------------
+
+
+  无线网卡            Atheros AR9485 Wireless Network Adapter
+  制造商              Azurewave
+
+  网卡                鈺硕 AR8161/8165 PCI-E Gigabit Ethernet Controller
+  制造商              华硕
+
+  声卡                瑞昱 ALC269 @ 英特尔 Panther Point High Definition Audio Controller
+
+  键盘                PC/AT Enhanced PS/2 标准键盘 (101/102-Key)
+  鼠标                华硕 PS/2 Port Clickpad
+
+  摄像头              USB2.0 UVC HD Webcam
+
+--------[ PCI设备 ]-------------------------------------------------------------------------------
+
+  设备                Ivy Bridge DRAM Controller
+  设备ID              0154
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to HOST
+  子系统制造商        ASUSTeK
+  子系统ID            117D1043
+
+  设备                HD Graphics 4000
+  设备ID              0166
+  制造商              Intel
+  制造商ID            8086
+  类别                Display / VGA
+  子系统制造商        ASUSTeK
+  子系统ID            117D1043
+
+  设备                3rd Gen Core Processor Thermal Subsystem
+  设备ID              0153
+  制造商              Intel
+  制造商ID            8086
+  类别                Data Aquisition & Signal Processing / Other
+  子系统制造商        ASUSTeK
+  子系统ID            117D1043
+
+  设备                Panther Point USB xHCI Host Controller
+  设备ID              1E31
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB (UHCI)
+  子系统制造商        ASUSTeK
+  子系统ID            201F1043
+
+  设备                Panther Point MEI Controller #1
+  设备ID              1E3A
+  制造商              Intel
+  制造商ID            8086
+  类别                Simple Communication / Other
+  子系统制造商        ASUSTeK
+  子系统ID            117D1043
+
+  设备                Panther Point USB Enhanced Host Controller #2
+  设备ID              1E2D
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB 2.0 (EHCI)
+  子系统制造商        ASUSTeK
+  子系统ID            201F1043
+
+  设备                Panther Point High Definition Audio Controller
+  设备ID              1E20
+  制造商              Intel
+  制造商ID            8086
+  类别                Multimedia / Hi-definition Audio
+  子系统制造商        ASUSTeK
+  子系统ID            117D1043
+
+  设备                Panther Point PCI Express Root Port 1
+  设备ID              1E10
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                Panther Point PCI Express Root Port 2
+  设备ID              1E12
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                Panther Point PCI Express Root Port 4
+  设备ID              1E16
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                Panther Point USB Enhanced Host Controller #1
+  设备ID              1E26
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB 2.0 (EHCI)
+  子系统制造商        ASUSTeK
+  子系统ID            201F1043
+
+  设备                HM76 Express Chipset LPC Controller
+  设备ID              1E59
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to ISA
+  子系统制造商        ASUSTeK
+  子系统ID            117D1043
+
+  设备                Panther Point 6 port SATA Controller
+  设备ID              1E03
+  制造商              Intel
+  制造商ID            8086
+  类别                Storage / Serial ATA (AHCI 1.0)
+  子系统制造商        ASUSTeK
+  子系统ID            117D1043
+
+  设备                Panther Point SMBus Controller
+  设备ID              1E22
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / SMBus Controller
+  子系统制造商        ASUSTeK
+  子系统ID            117D1043
+
+  设备                Panther Point Thermal Management Controller
+  设备ID              1E24
+  制造商              Intel
+  制造商ID            8086
+  类别                Data Aquisition & Signal Processing / Other
+  子系统制造商        ASUSTeK
+  子系统ID            117D1043
+
+  设备                AR9485 Wireless Network Adapter
+  设备ID              0032
+  制造商              Atheros
+  制造商ID            168C
+  类别                Network / Other
+  子系统制造商        Azurewave
+  子系统ID            11861A3B
+
+  设备                AR8161/8165 PCI-E Gigabit Ethernet Controller
+  设备ID              1091
+  制造商              Attansic
+  制造商ID            1969
+  类别                Network / Ethernet
+  子系统制造商        ASUSTeK
+  子系统ID            201F1043
+
+--------[ USB设备 ]-------------------------------------------------------------------------------
+
+  描述                IMC Networks USB2.0 UVC HD Webcam
+  制造商ID            13D3
+  产品ID              5188
+  类别                239 / 2 / 1
+  设备                 
+  版本                USB 2.0
+
+--------[ 传感器 ]--------------------------------------------------------------------------------
+
+  CPU温度             50℃
+  CPU核心             50℃
+  CPU封装             50℃
+  PCH                 54℃
+  硬盘温度            25℃
+
