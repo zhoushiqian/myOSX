@@ -1,0 +1,46 @@
+Method (TACH, 1, Serialized)
+Method (XACH, 1, Serialized)
+
+
+54414348 09
+58414348 09
+
+Method (_BIX, 0, NotSerialized)
+Method (XBIX, 0, NotSerialized)
+
+5f424958 00
+58424958 00  
+
+
+Method (BIFA, 0, NotSerialized)
+Method (XIFA, 0, NotSerialized)
+42494641 00
+58494641 00
+
+
+ Method (SMBR, 3, Serialized)
+ Method (XMBR, 3, Serialized)
+
+ 534d4252 0b
+ 584d4252 0b
+
+
+Method (SMBW, 5, Serialized)
+Method (XMBW, 5, Serialized
+
+534d4257 0d
+584d4257 0d
+
+
+
+Method (ECSB, 7, NotSerialized)
+Method (XCSB, 7, NotSerialized)
+
+45435342 07
+58435342 07
+
+
+
+Method(xxxx,a,N) --> xxxx 的十六进制代码 + a 的十六进制代码，最后两位范围为 00 - 07
+
+Method(xxxx,b,S) --> xxxx 的十六进制代码 + (b+8) 的十六进制代码，最后两位范围为 08 - 0F
