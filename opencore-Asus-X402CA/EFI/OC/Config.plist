@@ -54,6 +54,14 @@
 				<key>Path</key>
 				<string>SSD-S3-DISABLE.aml</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Read the comment in dsl sample</string>
+				<key>Enabled</key>
+				<false/>
+				<key>Path</key>
+				<string>SSDT-SMBUS.aml</string>
+			</dict>
 		</array>
 		<key>Delete</key>
 		<array>
@@ -771,6 +779,22 @@
 				<key>BundlePath</key>
 				<string>USBMap.kext</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+				<key>Enabled</key>
+				<false/>
+				<key>MinKernel</key>
+				<string></string>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/VoodooSMBus</string>
+				<key>BundlePath</key>
+				<string>VoodooSMBus.kext</string>
+			</dict>
 		</array>
 		<key>Block</key>
 		<array>
@@ -1014,7 +1038,7 @@
 			<key>SysReport</key>
 			<false/>
 			<key>Target</key>
-			<integer>67</integer>
+			<integer>3</integer>
 		</dict>
 		<key>Entries</key>
 		<array>
